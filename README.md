@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   <b>Red Team Project2 </b>
   - (https://github.com/dlgul71/Project2)<br>
-  <b>Red Team Summary Of Operation Final Project (</b>
+  <b>Red Team Summary Of Operation Final Project </b>
   - (https://github.com/dlgul71/CyberSecurityFinalProject2022)
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
