@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   <b>Red Team Project2 </b>
-  - (https://github.com/dlgul71/Project2)<br
-  <b>Automated Elk Project </b>                                     
+  - (https://github.com/dlgul71/Project2)<br>
+  <b>Automated Elk Stack Development Project </b>                                     
   - (https://github.com/dlgul71/https-github.com-dlgul71-ELKProject)
   <b>Red Team Summary Of Operation Final Project </b>
   - (https://github.com/dlgul71/CyberSecurityFinalProject2022)
