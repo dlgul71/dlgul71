@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <b>Red Team Project 2)</b>
-  - [Image Analysis Middleware](https://github.com/dlgul71/Project2)) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/dlgul71/Project2)
 - <b>Red Team Summary Of Operation. Final Project (</b>
   - [Red Team Summary Of Operation](https://github.com/dlgul71/CyberSecurityFinalProject2022)
 
