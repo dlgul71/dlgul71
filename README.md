@@ -4,7 +4,7 @@
   <b>Red Team Project2 </b>
   - (https://github.com/dlgul71/Project2)<br>
   <b>Red Team Summary Of Operation. Final Project (</b>
-  - [Red Team Summary Of Operation](https://github.com/dlgul71/CyberSecurityFinalProject2022)
+  - (https://github.com/dlgul71/CyberSecurityFinalProject2022)
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
