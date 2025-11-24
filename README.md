@@ -1,6 +1,6 @@
-<h1>Hi, I'm David! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/david-l-gulledge-8b5a328/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm David! <br/><a href="https://www.linkedin.com/in/david-l-gulledge-8b5a328/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
