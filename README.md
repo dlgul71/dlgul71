@@ -1,4 +1,12 @@
-<h1>Hi, I'm David! <br/><a href="https://www.linkedin.com/in/david-l-gulledge-8b5a328/">Cybersecurity Professional</a></h1>
+<h1>Hello, I'm David!
+  <a href="https://www.linkedin.com/in/david-l-gulledge-8b5a328/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+  
+  
+  
+  
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   <b>Red Team Project2 </b>
