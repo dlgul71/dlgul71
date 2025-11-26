@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://github.com/dlgul71/CyberSecurity" target="_blank">
+<a href="https://github.com/dlgul71" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
